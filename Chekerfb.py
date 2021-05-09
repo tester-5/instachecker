@@ -5,17 +5,10 @@ import requests
 
 ani="""
 
-- FOR INFORMATION ✅
-- Welcome To HAMA CODER ⚡️💻
-
-- Shared Free Tools And Paid Tools 
-- To Make Special Program
-- Owner :
-- @COD3ER
-- @hama_software 
+- INFORMATION ✅
+- Owner : @Hideable
 - Languages : VB NET ,  C# , PYTHON
 
-My Instagram : danyar.software
 
 
 -----------------
